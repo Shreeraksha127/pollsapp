@@ -1,0 +1,11 @@
+#n3{
+    width:300px;
+}
+input[type=text]{
+    width:700px;
+    margin-top:10px;
+    height:30px;
+}
+button{
+    margin-top:10px;
+}
